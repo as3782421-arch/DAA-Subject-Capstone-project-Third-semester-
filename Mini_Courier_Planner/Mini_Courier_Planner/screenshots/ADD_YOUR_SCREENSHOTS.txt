@@ -1,0 +1,1 @@
+After running mini_courier_planner.py, save screenshots of the terminal output and place them in this folder. Do not submit this instruction file as a substitute for actual screenshots.
